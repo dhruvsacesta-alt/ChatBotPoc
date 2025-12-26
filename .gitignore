@@ -1,0 +1,10 @@
+node_modules/
+.env
+backend/node_modules/
+backend/.env
+backend/docs/
+backend/docs.zip
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+.DS_Store
